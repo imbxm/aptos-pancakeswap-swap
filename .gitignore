@@ -10,6 +10,8 @@ __pycache__/
 .Python
 .idea
 .idea/
+.vscode
+.vscode/
 build/
 develop-eggs/
 dist/
